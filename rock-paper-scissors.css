@@ -1,0 +1,30 @@
+body {
+	color: black;
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	line-height: 24px;
+    margin: 32px;
+}
+
+h1 {
+    font-size: 33px;
+    margin-bottom: 32px;
+}
+
+button {
+	font-size: 120px;
+    cursor: pointer;
+    width: 192px;
+    height: 192px;
+    margin-right: 16px;
+    margin-top: 16px;
+    vertical-align: middle;
+}
+
+#scores {
+    width: 620px;
+}
+
+#computerScore {
+     float: right;
+}
